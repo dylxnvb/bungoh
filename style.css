@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+#sidebar{
+    width: 200px;
+    background-color: grey;
+    height: 100%;
+    position: fixed!important;
+    overflow: auto;
+}
+
+.item {
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    border: none;
+    display: block;
+    outline: 0;
+}
